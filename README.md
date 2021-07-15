@@ -2,4 +2,4 @@
 
 > Official SF Mono Typeface 
 
-Official San Francisco Mono typeface for IDEs (especially Visual Studio Code)
+Official Apple's San Francisco Mono typeface for IDEs (especially Visual Studio Code)
